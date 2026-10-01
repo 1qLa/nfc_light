@@ -1,14 +1,10 @@
 # LighTouch
 
-> 🚧 **企画・開発段階のプロジェクトです。** 内容は開発の進行に合わせて更新していきます。
-
-<!-- TODO: コンセプト画像・実機写真・アプリ画面を追加
 <p align="center">
-  <img src="画像URL" width="400" alt="Image 1" />
+  [メイン画像.pdf](https://github.com/user-attachments/files/32882555/default.pdf)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="画像URL" width="400" alt="Image 2" />
+  [サブ画像.pdf](https://github.com/user-attachments/files/32882556/default.pdf)
 </p>
--->
 
 「NFCタグ＝鍵」「ライト＝錠」<br>
 登録したNFCタグをかざした時だけ点灯する、"鍵付き"のスマートライト。
@@ -16,9 +12,9 @@
 NFCリーダーを搭載したマイコンと専用のAndroidアプリをBLEで連携させ、<br>
 「かざす」というシンプルな動作で、登録者だけがライトを操作できる体験を目指しています。
 
-## 📊 企画資料 (Presentation)
+## 📊 発表資料 (Presentation)
 本プロジェクトの背景や企画意図については、以下の資料をご覧ください。
-* **スライド資料**（作成予定）
+* **スライド資料**（[スライド資料はこちら](https://canva.link/zlat5jei4h3g1fg)）
 
 ---
 
@@ -115,8 +111,8 @@ NFCリーダーを搭載したマイコンと専用のAndroidアプリをBLEで�
 | 4. 仕上げ | 筐体制作・テスト・発表準備 | ⏳ 未着手 |
 
 ## 👥 開発体制
-- **開発期間**: （記入予定）
-- **担当領域**: （記入予定）
+- **開発期間**: 約4〜5ヶ月
+- **担当領域**: マイコンへの書き込み（NFC認証・BLE通信・ライト制御）
 
 ---
 
