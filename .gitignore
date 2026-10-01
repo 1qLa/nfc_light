@@ -1,3 +1,27 @@
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Ignore the following files and directories in the root directory
+/.idea
+
+
+# Ignore the build output directories and IDE configuration files
+Application/.idea/shelf/
+Application/.idea/workspace.xml
+
+
+# Ignore the following files and directories in the Application module
+Application/*.iml
+Application/.gradle/
+Application/local.properties
+Application/build
+Application/app/build/
+Application/*.apk
+Application/*.aab
+Application/.idea/
+
+
+# Ignore the following files and directories in the Micom module
+Micom/.pio
+Micom/.ext
