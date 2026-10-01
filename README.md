@@ -1,9 +1,9 @@
 # LighTouch
 
 <p align="center">
-  [メイン画像.pdf](https://github.com/user-attachments/files/32882555/default.pdf)
+  <img src="docs/images/main.png" width="400" alt="メイン画像" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [サブ画像.pdf](https://github.com/user-attachments/files/32882556/default.pdf)
+  <img src="docs/images/sub.png" width="400" alt="サブ画像" />
 </p>
 
 「NFCタグ＝鍵」「ライト＝錠」<br>
