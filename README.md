@@ -45,10 +45,8 @@ NFCリーダーを搭載したマイコンと専用のAndroidアプリをBLEで�
 - **データ保存**: Preferences（ESP32の不揮発メモリ）
 
 ### アプリケーション
-- **Platform**: Android（minSdk 24 / targetSdk 35）
+- **Platform**: Android
 - **Language**: Kotlin
-- **UI**: Jetpack Compose（Material 3）
-- **画面遷移**: Navigation Compose
 
 ---
 
